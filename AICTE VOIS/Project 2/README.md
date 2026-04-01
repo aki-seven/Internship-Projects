@@ -1,4 +1,4 @@
-# Network Port Scanner GUI
+# Network Port Scanner
 
 A multi-threaded TCP port scanner with GUI.
 
